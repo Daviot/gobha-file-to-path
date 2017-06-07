@@ -1,7 +1,7 @@
 {
   "name": "gobha-file-to-path",
   "version": "1.0.0",
-  "description": "Converts all files into permalink for seo optimisation and changes the file extension of the file",
+  "description": "Converts all files into permalink for seo optimisation",
   "repository": { 
     "type" : "git",
     "url" : "https://github.com/Daviot/gobha-file-to-path.git"
