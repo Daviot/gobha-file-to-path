@@ -1,11 +1,13 @@
 {
   "name": "gobha-file-to-path",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
+  "description": "Converts all files into permalink for seo optimisation and changes the file extension of the file",
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/Daviot/gobha-file-to-path.git"
   },
+  "main": "lib/index.js",
+  "directories": {},
   "dependencies": {
     "async": "^2.4.1",
     "extend": "^3.0.1",
@@ -16,7 +18,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["gobha", "metalsmith"],
+  "author": "Daviot <gobha@daviot.at>",
+  "license": "MIT"
 }
