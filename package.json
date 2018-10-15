@@ -1,6 +1,6 @@
 {
   "name": "gobha-file-to-path",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Converts all files into permalink for seo optimisation",
   "repository": {
     "type": "git",
